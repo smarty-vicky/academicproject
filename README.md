@@ -17,7 +17,6 @@ The **Smart Ambulance System** is developed as part of an academic project using
 - 🧍 Add & Manage Patient Records
 - 👤 User Registration & Login
 - 🔍 Search Hospitals by Location
-- 📇 Search Patient Information using Aadhar ID
 - ✉️ Feedback Submission System
 
 ---
